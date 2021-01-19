@@ -1,6 +1,6 @@
 ### Hi there 👋, This is Nithya Prakash 
 #### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am GitHub Readme Generator's creator](https://github.com/whoisnp/whoisnp/blob/main/header.png)
 
 Enthusiastic Web Developer eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Clear understanding of how web works. Motivated to learn, grow and excel in IT industry. 
 
