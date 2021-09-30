@@ -80,8 +80,8 @@ Here are some ideas to get you started:
 <!-- - 🔨 I'm Currently Doing my internship at Oye Busy Tech! -->
 - 🔨 Currently I'm
     - Doing my Engineering Degree 
-    - Doing my Intenship at Oye Busy tech
-    - Learning Vue and react 
+    - Working as Software Engineer in Apisero Inc.
+    - Learning Mulesoft
 
 - 🎯 In the near future, i plan to ...
 	- Learn aws and devops
