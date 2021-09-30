@@ -1,5 +1,5 @@
 <!-- [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (whoisnp|http://np.plusequalz.com)" title="👋 Hi there! I'm (whoisnp|http://np.plusequalz.com)"/>](http://np.plusequalz.com/) -->
-[<img src="https://github.com/whoisnp/whoisnp/blob/main/Intro.gif" alt="👋 Hi there! I'm (whoisnp|http://np.plusequalz.com)" title="👋 Hi there! I'm (whoisnp|http://np.plusequalz.com)"/>](http://np.plusequalz.com/)
+[<img src="https://github.com/whoisnp/whoisnp/blob/main/Intro.gif" alt="👋 Hi there! I'm (whoisnp|https://whoisnp.me)" title="👋 Hi there! I'm (whoisnp|https://whoisnp.me)"/>](https://whoisnp.me/)
 
 <!--
 
